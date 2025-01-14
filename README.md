@@ -1,6 +1,6 @@
 # My Spotify Wrapped
 
-Welcome to the **My Spotify Wrapped** project!
+Welcome to the **My Spotify Wrapped** project! I have completed this project solely using SQL and visualize the data in Power BI.
 
 
 ## Introduction
